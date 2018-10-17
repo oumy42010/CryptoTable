@@ -92,9 +92,9 @@
 	     var dt_symbol = document.createTextNode(tickers[i].symbol);
 	     var dt_price = document.createTextNode('$ ' + tickers[i].price_usd);
 	     
-	     var val_1h = tickers[i].percent_change_1h + '%';
-	     var val_24h = tickers[i].percent_change_24h + '%';
- 	     var val_7d = tickers[i].percent_change_7d + '%';
+	     var val_1h = tickers[i].percent_change_1h;
+	     var val_24h = tickers[i].percent_change_24h;
+ 	     var val_7d = tickers[i].percent_change_7d;
 	     
 	     var dt_1h = document.createTextNode(val_1h) ;
 	     var dt_24h = document.createTextNode(val_24h);
