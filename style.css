@@ -2,6 +2,18 @@ body {
   margin-top: 10px; 
   background-color: #FFFFF0;
  }
+.centre{ 
+padding: 35px; 
+  background: #A2B5BF;
+  justify-content: center;
+  color: #375D81;
+    -moz-border-radius:20px 0;
+    -webkit-border-radius:20px 0;
+    border-radius:20px 15px 20px 15px;
+    margin-bottom: 30px;
+    font-family: rokkit, cantarell, oswald, 'pt sans';
+
+}
 h1 {
   text-align: center;
 }
