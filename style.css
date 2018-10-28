@@ -41,11 +41,10 @@ header{
 
 footer p
 {
-    font-size: 1.3em;
-    padding: 10px; 
+    font-size: 1.1em;
+    padding: 5; 
     background: #A2B5BF;
     color: #0174DF;
-    border-style: ridge; 
     text-align: center;
     justify-content: center;
     color: #375D81;
