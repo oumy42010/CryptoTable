@@ -28,6 +28,9 @@ td img {
 .jumbotron {
   margin-top: 3px;
   margin-bottom: 3px;
+  -moz-border-radius:20px 0;
+  -webkit-border-radius:20px 0;
+  border-radius:20px 15px 20px 15px;
 }
 
 header{
@@ -39,7 +42,7 @@ header{
 footer p
 {
     font-size: 1.3em;
-    padding: 35px; 
+    padding: 10px; 
     background: #A2B5BF;
     color: #0174DF;
     border-style: ridge; 
@@ -49,6 +52,6 @@ footer p
     -moz-border-radius:20px 0;
     -webkit-border-radius:20px 0;
     border-radius:20px 15px 20px 15px;
-    margin-bottom: 30px;
+    margin: 30px;
     font-family: rokkit, cantarell, oswald, 'pt sans';
 }
