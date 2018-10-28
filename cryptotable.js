@@ -88,7 +88,6 @@
 	     row.appendChild(ct_24h);
 	     row.appendChild(ct_7d);
 	     table.appendChild(row);
-
     }
     document.getElementById("tickersTable").appendChild(table);
     
