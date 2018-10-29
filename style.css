@@ -12,34 +12,16 @@ padding: 35px;
     border-radius:20px 15px 20px 15px;
     margin-bottom: 30px;
     font-family: rokkit, cantarell, oswald, 'pt sans';
-
-}
-h1 {
-  text-align: center;
-  color: #375D81;
-}
-td img {
-  width: 25px;
-}
-.jumbotron p {
-  font-size: 1.3em;
-  color: #375D81;
-}
-.jumbotron {
-  margin-top: 3px;
-  margin-bottom: 15px;
-  -moz-border-radius:20px 0;
-  -webkit-border-radius:20px 0;
-  border-radius:20px 15px 20px 15px;
 }
 
 header{
   margin-left: 10px;
-  margin-bottom: 20px;
+  margin-right: 10px;
+  margin-bottom: 35px;
   text-align: center;
 }
 
-footer p
+footer 
 {
     font-size: 1.1em;
     padding: 5; 
